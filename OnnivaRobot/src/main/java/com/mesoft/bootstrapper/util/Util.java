@@ -14,6 +14,7 @@ public class Util {
 	final static Logger logger = LoggerFactory.getLogger(Util.class);
 	
 	
+	
 	public String getConfig(String param) {
 
 		String result = "";
